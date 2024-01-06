@@ -5,21 +5,6 @@ import os
 import time
 from termcolor import colored
 
-
-
-os.system('cls')
-print(colored(r"this is atack ddos ",'red'))
-print(colored(r'=================================================','green'))
-time.sleep(1)
-print(colored('Wellcome to my tool............','green'))
-time.sleep(1)
-print(colored('.......','green'))
-time.sleep(1)
-print(colored('.......','green'))
-time.sleep(1)
-print(colored('.......','green'))
-time.sleep(1)
-print(colored('Start......','green'))
 os.system('cls')
 
 ip = str(input(colored('Nhap ip :','green')))
